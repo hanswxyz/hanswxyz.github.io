@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish" # UNCOMMENT THIS LINE
-baseURL = "https://hanswxyz.github.io"
+baseURL = "https://hanswxyz.github.io/hanswxyz.github.io"
 defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
@@ -11,7 +11,7 @@ defaultContentLanguage = "en"
 enableRobotsTXT = true
 summaryLength = 0
 
-buildDrafts = false
+buildDrafts = true
 buildFuture = false
 
 enableEmoji = true
